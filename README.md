@@ -1,4 +1,5 @@
-## Hi there 👋
+## Sol-less
+i love CSS and HTML. You can copy my dotfiles for Hyprland (Arch Linux)
 
 <!--
 **sol-less/sol-less** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
