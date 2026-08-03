@@ -1,17 +1,22 @@
-## Sol-less
-i love CSS and HTML. You can copy my dotfiles for Hyprland (Arch Linux)
+<div align="center">
+  <h1>
+    Hi! I'm [ sol-less ]
+  </h1>
+</div>
 
-<!--
-**sol-less/sol-less** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> And this is my README.md on my profile!
 
-Here are some ideas to get you started:
+<div align="center">
+  <h2>
+    [ Who Am I? ]
+  </h2>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a student from **Indonesia** trying Quickshell and Hyprland on a *ThinkPad X230 Tablet* laptop, where i constantly
+gets breakdowns due to freezing and stuff.
+
+<div align="center">
+  <h2> [ Projects ] </h2>
+</div>
+
+[Yamd3s](https://github.com/sol-less/yamd3s/releases) -- a quick, lightweight shell based on Quickshell and Material Design 3
